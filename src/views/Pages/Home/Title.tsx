@@ -50,7 +50,7 @@ function Title() {
 				<Label index={1} text="v1" position={px(0, 40)} />
 				<Label index={2} text="by nebula" position={px(0, 63)} transparency={0.15} />
 				<Label index={3} text="pls like" position={px(0, 86)} transparency={0.3} />
-				<Label index={4} text="nebualware eoonf top" position={new UDim2(0, 0, 1, -40)} transparency={0.45} />
+				<Label index={4} text="github.com/nebulawaree" position={new UDim2(0, 0, 1, -40)} transparency={0.45} />
 			</Canvas>
 		</Card>
 	);
